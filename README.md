@@ -1,6 +1,6 @@
 # schaadbridge.github.io
 
-Temporary portfolio, built off of a template to prepare myself to discuss my accomplishments/experience at the Grace Hopper Celebration!
+Temporary portfolio, built off of a template to practice small changes and configure new dev setups.
 
 
 Dimension by HTML5 UP
